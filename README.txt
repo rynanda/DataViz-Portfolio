@@ -1,6 +1,3 @@
-Name: Ryan Indrananda
-Student Number: n10852565
-
 The `data_w7`, `invasive_plant_rasters_2019`, and `whiskey_data` folders as well as `wholivedwhen.png` contain data used in this portfolio. Please place them in the same directory where the .Rmd file (n10852565_Portfolio.Rmd) is located. Thank you!
 
                                                .--.
